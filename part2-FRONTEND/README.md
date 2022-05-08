@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This app is deployed in: https://mysterious-inlet-24790.herokuapp.com/ you can add a note and this will be in for the eternity :D
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
